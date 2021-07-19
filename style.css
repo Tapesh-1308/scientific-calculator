@@ -131,8 +131,12 @@ span{
         width: 5rem;
         font-size: 2.5rem;
     }
+    a{
+        line-height: 6.1rem;
+    }
 
     input{
         width: 22rem;
+        font-size: 1.5rem;
     }
 }
