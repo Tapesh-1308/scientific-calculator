@@ -115,7 +115,7 @@ span{
     visibility: hidden;
 }
 
-@media (max-width:400px){
+@media (max-width:600px){
     h1{
         font-size: 5rem;
     }
